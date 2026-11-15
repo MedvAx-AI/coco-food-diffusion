@@ -1,0 +1,28 @@
+id,task,food,count,side,prompt
+identity-pizza-0,identity,pizza,,,A close-up photo of pizza served on a white plate.
+identity-pizza-1,identity,pizza,,,A restaurant table with pizza on a blue plate.
+identity-sandwich-0,identity,sandwich,,,A close-up photo of sandwich served on a white plate.
+identity-sandwich-1,identity,sandwich,,,A restaurant table with sandwich on a blue plate.
+identity-cake-0,identity,cake,,,A close-up photo of cake served on a white plate.
+identity-cake-1,identity,cake,,,A restaurant table with cake on a blue plate.
+identity-donut-0,identity,donut,,,A close-up photo of donut served on a white plate.
+identity-donut-1,identity,donut,,,A restaurant table with donut on a blue plate.
+identity-banana-0,identity,banana,,,A close-up photo of banana served on a white plate.
+identity-banana-1,identity,banana,,,A restaurant table with banana on a blue plate.
+identity-broccoli-0,identity,broccoli,,,A close-up photo of broccoli served on a white plate.
+identity-broccoli-1,identity,broccoli,,,A restaurant table with broccoli on a blue plate.
+count-donut-1,count,donut,1,,"One whole donut on a white plate, photographed from directly above."
+count-donut-2,count,donut,2,,"Two whole donuts on a white plate, photographed from directly above."
+count-donut-3,count,donut,3,,"Three whole donuts on a white plate, photographed from directly above."
+count-banana-1,count,banana,1,,"One whole banana on a white plate, photographed from directly above."
+count-banana-2,count,banana,2,,"Two whole bananas on a white plate, photographed from directly above."
+count-banana-3,count,banana,3,,"Three whole bananas on a white plate, photographed from directly above."
+count-sandwich-1,count,sandwich,1,,"One whole sandwich on a white plate, photographed from directly above."
+count-sandwich-2,count,sandwich,2,,"Two whole sandwiches on a white plate, photographed from directly above."
+count-sandwich-3,count,sandwich,3,,"Three whole sandwiches on a white plate, photographed from directly above."
+spatial-pizza-left,spatial,pizza,,left,"A pizza on the left of a white coffee cup on the right, overhead food photography."
+spatial-pizza-right,spatial,pizza,,right,"A pizza on the right of a white coffee cup on the left, overhead food photography."
+spatial-sandwich-left,spatial,sandwich,,left,"A sandwich on the left of a white coffee cup on the right, overhead food photography."
+spatial-sandwich-right,spatial,sandwich,,right,"A sandwich on the right of a white coffee cup on the left, overhead food photography."
+spatial-donut-left,spatial,donut,,left,"A donut on the left of a white coffee cup on the right, overhead food photography."
+spatial-donut-right,spatial,donut,,right,"A donut on the right of a white coffee cup on the left, overhead food photography."

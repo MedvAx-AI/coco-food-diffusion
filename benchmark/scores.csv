@@ -1,0 +1,10 @@
+threshold,task,pairs,pretrained,tuned,tuned_only,pretrained_only
+0.3,identity,24,21,22,1,0
+0.3,count,18,3,5,3,1
+0.3,spatial,12,4,3,0,1
+0.5,identity,24,21,22,1,0
+0.5,count,18,3,5,2,0
+0.5,spatial,12,4,3,0,1
+0.7,identity,24,21,21,0,0
+0.7,count,18,4,5,2,1
+0.7,spatial,12,4,3,0,1
