@@ -6,11 +6,10 @@ and compares the two models on the same prompts and initial noise.
 
 [Executed notebook](notebooks/coco_food_diffusion.ipynb) · [Open in Colab](https://colab.research.google.com/github/MedvAx-AI/coco-food-diffusion/blob/main/notebooks/coco_food_diffusion.ipynb)
 
-**Try the model in Colab.** Download the [3.2 MB trained adapter](weights/coco-food-lora.safetensors)
-and the [inference notebook](notebooks/inference.ipynb) from GitHub. Upload the
-notebook to Colab, select a GPU, and run the setup cells. Upload the adapter
-when prompted. Edit the prompt and seed in the final cell to compare the
-pretrained and adapted images without retraining.
+**Try the model.** [Open the inference demo in Colab](https://colab.research.google.com/github/MedvAx-AI/coco-food-diffusion/blob/main/notebooks/inference.ipynb),
+select a GPU, and run the setup cells. The demo downloads the
+[3.2 MB trained adapter](weights/coco-food-lora.safetensors) automatically.
+Edit the prompt and seed in the final cell to compare both models without retraining.
 
 ![Matched generations for pizza, sandwiches, cake, donuts, bananas, and broccoli. Pretrained images are on the left and COCO LoRA images are on the right.](assets/pretrained-vs-coco-lora.jpg)
 
